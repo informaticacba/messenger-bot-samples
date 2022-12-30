@@ -57,7 +57,7 @@
     "eslint": "^5.16.0",
     "eslint-config-metalab": "^10.1.0",
     "file-loader": "^4.1.0",
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "nodemon": "^1.19.1",
     "style-loader": "^0.23.1",
     "url-loader": "^2.1.0",
